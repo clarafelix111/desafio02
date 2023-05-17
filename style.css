@@ -28,25 +28,19 @@ top: 248px;
   top: 103px;
 }
 .container button {
-  font-family: 'Kavoon', cursive; 
-
-font-family: 'Kavoon';
+font-family: 'Kavoon', cursive; 
 font-style: normal;
 font-weight: 400;
 font-size: 40px;
 line-height: 64px;
-
 text-align: center;
-
 color: #FFFFFF;
 width: 354px;
 height: 77px;
 left: 867px;
-top: 470px;
-
+top: 570px;
 background: #D48B5C;
 border-radius: 50px;
-
 }
 .container button:hover {
 cursor: pointer;
